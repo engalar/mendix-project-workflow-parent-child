@@ -16,3 +16,7 @@ theme-cache
 /nativemobile/builds/
 .history
 target
+/liveclass0713-2.mpr.bak
+/liveclass0713-2.mpr.lock
+/modeler-merge-marker
+!/javascriptsource/**/node_modules/
